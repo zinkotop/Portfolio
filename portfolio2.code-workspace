@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio1/node_modules"
+		},
+		{
+			"path": "../portfolio1/public"
+		},
+		{
+			"path": "../portfolio1/src"
+		}
+	],
+	"settings": {}
+}
