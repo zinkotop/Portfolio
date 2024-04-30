@@ -44,4 +44,5 @@ Le jeu se termine dans les cas suivants :
    - Si le joueur répond correctement à la dixième et dernière question, il gagne tous les bitcoins en jeu.
 
 ### Lien
-- lien du jeu 
+- - https://qvgdb-2.vercel.app/index.html
+
