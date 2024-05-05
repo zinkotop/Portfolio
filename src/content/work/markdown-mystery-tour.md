@@ -1,7 +1,7 @@
 ---
 title: Qui veut gagner des bitcoins ?
 publishDate: 2020-03-02 00:00:00
-img: /assets/Page1QVGDB.jpeg
+img: /assets/PAGE1.jpeg
 img_alt: page1
 description: |
   Jeu dans le cadre d'un projet d'étude.
