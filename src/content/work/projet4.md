@@ -1,8 +1,8 @@
 ---
 title: Outils géometriques  - Triangles
 publishDate: 2019-12-01 00:00:00
-img: /assets/maths.jpeg
-img_alt: maths
+img: /assets/projet4.jpeg
+img_alt: triangles
 description: Outils géometriques 
 tags:                                        
   - Design
